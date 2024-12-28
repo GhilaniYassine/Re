@@ -1,0 +1,4 @@
+farm-haystack 
+streamlit 
+senetence_transfomers
+torch
